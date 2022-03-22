@@ -6,12 +6,7 @@ fun main() {
     val resultList = mutableListOf<Int>()
 
     while (circleList.size > 0) {
-        for (i in (1 until k)) {
-            currentIndex += 1
-            if (circleList.size <= currentIndex) {
-                currentIndex %= circleList.size
-            }
-        }
+        currentIndex = (currentIndex + k - 1) % circleList.size
         resultList.add(circleList[currentIndex])
         circleList.removeAt(currentIndex)
     }
