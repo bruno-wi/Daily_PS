@@ -27,7 +27,6 @@ fun main() {
                 '+' -> first + last
                 '-' -> first - last
                 '/' -> first / last
-                '-' -> first - last
                 else -> 0.0
             }
             calculationStack.add(result)
