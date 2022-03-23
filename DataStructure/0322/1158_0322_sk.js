@@ -1,12 +1,16 @@
-const fs = require('fs');
-const stdin = (process.platform === 'linux' ? fs.readFileSync('/dev/stdin').toString().trim() : `7 3`).split('\n');
+const fs = require("fs");
+const stdin = (
+  process.platform === "linux"
+    ? fs.readFileSync("/dev/stdin").toString().trim()
+    : `7 3`
+).split("\n");
 
 const input = (() => {
   let line = 0;
   return () => stdin[line++];
 })();
 
-const [N, K] = input().split(' ').map(Number);
+const [N, K] = input().split(" ").map(Number);
 const personCds = Array.from(Array(N), (value, idx) => idx + 1);
 const answer = [];
 while (personCds.length) {
@@ -17,4 +21,4 @@ while (personCds.length) {
   answer.push(personCds.pop());
 }
 
-console.log(`<${answer.join(', ')}>`);
+console.log(`<${answer.join(", ")}>`);
