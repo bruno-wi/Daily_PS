@@ -7,4 +7,4 @@
 | 0330 | [암기왕](https://www.acmicpc.net/problem/2776)           | [성호](0330/2776_0330_sh.kt)  | [수경](0330/2776_0330_sk.js)  |
 | 0331 | [문자열 집합](https://www.acmicpc.net/problem/14425)     | [성호](0331/14425_0331_sh.kt) | [수경](0331/14425_0331_sk.js) |
 | 0401 | [최대 힙](https://www.acmicpc.net/problem/11279)         | 성호                          | 수경                          |
-| 0402 | [최소 힙](https://www.acmicpc.net/problem/1927)          | 성호                          | 수경                          |
+| 0402 | [절댓값 힙](https://www.acmicpc.net/problem/11286)          | 성호                          | 수경                          |
