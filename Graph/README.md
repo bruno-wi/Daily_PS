@@ -7,4 +7,4 @@
 | 0413 | [미로 탐색](https://www.acmicpc.net/problem/2178)      | [성호](0413/2178_0413_sh.kt) | [수경](0413/2178_0413_sk.js) |
 | 0414 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | [성호](0414/2667_0414_sh.kt) | [수경](0414/2667_0414_sk.js) |
 | 0415 | [유기농 배추](https://www.acmicpc.net/problem/1012)    | [성호](0415/1012_0415_sh.kt) | [수경](0415/1012_0415_sk.js) |
-| 0416 | [숨바꼭질](https://www.acmicpc.net/problem/1697)       | 성호                         | 수경                         |
+| 0416 | [숨바꼭질](https://www.acmicpc.net/problem/1697)       | [성호](0416/1697_0416_sh.kt) | 수경                         |
