@@ -7,4 +7,4 @@
 | 0420 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | [성호](0420/11725_0420_sh.kt) | [수경](0420/11725_0420_sk.js) |
 | 0421 | [완전 이진 트리](https://www.acmicpc.net/problem/9934)    | [성호](0421/9934_0421_sh.kt)  | [수경](0421/9934_0421_sk.js)  |
 | 0422 | [트리 순회](https://www.acmicpc.net/problem/1991)         | [성호](0422/1991_0422_sh.kt)  | [수경](0422/1991_0422_sk.js)  |
-| 0423 | [나무 위의 빗물](https://www.acmicpc.net/problem/17073)   | 성호                          | 수경                          |
+| 0423 | [나무 위의 빗물](https://www.acmicpc.net/problem/17073)   | 성호                          | [수경](0423/17073_0423_sk.js) |
